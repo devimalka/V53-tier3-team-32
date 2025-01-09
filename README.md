@@ -36,6 +36,7 @@ coding!
 
 - Anita Boakye-Yiadom: [GitHub](https://github.com/AnitaBoakye) / [LinkedIn](https://linkedin.com/in/anitaboakyeyiadom)
 - Boris Hubavenski: [GitHub](https://github.com/bhubavenski) / [LinkedIn](https://linkedin.com/in/boris-hubavenski)
+- Andreea Tohatan [GitHub](http://github.com/Andreea-A-T) / [LinkedIn](http://linkedin.com/in/andreea-anamaria-tohatan)
 
    ...
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
