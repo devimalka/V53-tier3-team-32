@@ -38,6 +38,7 @@ coding!
 - Boris Hubavenski: [GitHub](https://github.com/bhubavenski) / [LinkedIn](https://linkedin.com/in/boris-hubavenski)
 - Andreea Tohatan [GitHub](http://github.com/Andreea-A-T) / [LinkedIn](http://linkedin.com/in/andreea-anamaria-tohatan)
 - Denis Mwangi: [GitHub](https://github.com/denismwangikimani) / [LinkedIn](https://www.linkedin.com/in/denis-kimani)
+- Ibrahim Abdoh: [GitHub](https://github.com/ibrahim-b-dev) / [LinkedIn](https://linkedin.com/)
 
    ...
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
